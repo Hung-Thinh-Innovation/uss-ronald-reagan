@@ -10,7 +10,7 @@ setup(
     long_description_content_type="text/markdown",
     packages=['deenorm'],
     include_package_data=True,
-    install_requires=["vinorm", "underthesea", "eng_to_ipa", "git+https://github.com/quadrismegistus/prosodic.git"],
+    install_requires=["vinorm", "underthesea", "eng_to_ipa"],
 
     classifiers=[
         'Development Status :: 4 - Beta',
