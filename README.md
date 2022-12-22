@@ -1,4 +1,4 @@
-USS Ronald Reagan is a Nimitz-class, nuclear-powered supercarrier in the service of the United States Navy. The ninth ship of her class, she is named in honor of Ronald W. Reagan, President of the United States from 1981 to 1989.
+This is text-normalization toolkit for text-to-speech application.
 
 #### Install requirements
 ```bash
